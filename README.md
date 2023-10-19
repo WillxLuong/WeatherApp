@@ -12,13 +12,13 @@ This application allows users to search for current weather conditions and a 5-d
 
 ## Deployment
 
-The application is deployed at [Weather Dashboard]() 
+The application is deployed at [Weather Dashboard](https://willxluong.github.io/WeatherApp/) 
 
 ![Application Screenshot](./assets/weather%20dashboard.png) 
 
 ## Access
 
-- **Deployed Application**: [Weather Dashboard]() 
+- **Deployed Application**: [Weather Dashboard](https://willxluong.github.io/WeatherApp/) 
 - **GitHub Repository**: [GitHub Repo](https://github.com/WillxLuong/WeatherApp) 
 
 ## License
