@@ -24,5 +24,5 @@ The application is deployed at [Weather Dashboard]()
 ## License
 This project is licensed under the [MIT License](./LICENSE)
 
-# Creator
+## Creator
 Made by William Luong 2023
